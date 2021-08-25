@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_uber_app/models/allUsers.dart';
 import 'package:easy_localization/src/public_ext.dart';
 
-String mapKey = "AIzaSyAX0e4XXlkniZfsxvSzCJCividSUlxRw_U";
+String mapKey = "";
 
 User firebaseUser;
 
