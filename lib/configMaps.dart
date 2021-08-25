@@ -19,4 +19,4 @@ double starCounter = 0.0;
 String title = "";
 
 String serverToken =
-    "key=AAAAtxMbMeA:APA91bGd7RBIknbv4NCSv9xMd6AJ-ti0Rr_jd6dxrTyHONlXvf299S4E9IPRvcRgTl5GkzzB2JWyS2utCB60fc_rT3Znft9PsJMTPUzftQRBVQA9ImVTL7iUxcGLBt09-dSu5EWhsZ3W";
+    "";
